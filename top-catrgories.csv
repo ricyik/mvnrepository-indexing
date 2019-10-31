@@ -1,0 +1,446 @@
+Actor Frameworks,/open-source/actor-frameworks,Akka Actor,/artifact/com.typesafe.akka/akka-actor
+Actor Frameworks,/open-source/actor-frameworks,GPars,/artifact/org.codehaus.gpars/gpars
+Actor Frameworks,/open-source/actor-frameworks,Scala Actors Library,/artifact/org.scala-lang/scala-actors
+Android Packages,/open-source/android,Android AppCompat Library V7,/artifact/com.android.support/appcompat-v7
+Android Packages,/open-source/android,Android Support Library V4,/artifact/com.android.support/support-v4
+Android Packages,/open-source/android,Android Support RecyclerView V7,/artifact/com.android.support/recyclerview-v7
+Android Platform,/open-source/android-platform,Android Support Library (v4),/artifact/com.google.android/support-v4
+Android Platform,/open-source/android-platform,Google Android Annotations Library,/artifact/com.google.android/annotations
+Android Platform,/open-source/android-platform,Google Android Library,/artifact/com.google.android/android
+Annotation Processing Tools,/open-source/annotation-tools,Auto Common Libraries,/artifact/com.google.auto/auto-common
+Annotation Processing Tools,/open-source/annotation-tools,Java Annotation Indexer,/artifact/org.jboss/jandex
+Annotation Processing Tools,/open-source/annotation-tools,Value,/artifact/org.immutables/value
+Application Metrics,/open-source/application-metrics,Metrics Core Library,/artifact/com.yammer.metrics/metrics-core
+Application Metrics,/open-source/application-metrics,Metrics Core,/artifact/com.codahale.metrics/metrics-core
+Application Metrics,/open-source/application-metrics,Metrics Core,/artifact/io.dropwizard.metrics/metrics-core
+Application Servers,/open-source/application-servers,JBoss Application Server: Server,/artifact/org.jboss.as/jboss-as-server
+Application Servers,/open-source/application-servers,OpenEJB :: Container :: Core,/artifact/org.apache.openejb/openejb-core
+Application Servers,/open-source/application-servers,WildFly: Server,/artifact/org.wildfly/wildfly-server
+Aspect Oriented,/open-source/aop-programming,AspectJ Runtime,/artifact/org.aspectj/aspectjrt
+Aspect Oriented,/open-source/aop-programming,AspectJ Weaver,/artifact/org.aspectj/aspectjweaver
+Aspect Oriented,/open-source/aop-programming,Spring AOP,/artifact/org.springframework/spring-aop
+Assertion Libraries,/open-source/assertion-libraries,AssertJ Fluent Assertions,/artifact/org.assertj/assertj-core
+Assertion Libraries,/open-source/assertion-libraries,FEST Fluent Assertions (Core),/artifact/org.easytesting/fest-assert-core
+Assertion Libraries,/open-source/assertion-libraries,FEST Fluent Assertions,/artifact/org.easytesting/fest-assert
+Barcode Libraries,/open-source/barcode,Barbecue,/artifact/net.sourceforge.barbecue/barbecue
+Barcode Libraries,/open-source/barcode,Barcode4J,/artifact/net.sf.barcode4j/barcode4j
+Barcode Libraries,/open-source/barcode,ZXing Core,/artifact/com.google.zxing/core
+Base64 Libraries,/open-source/base64-libraries,Apache Commons Codec,/artifact/commons-codec/commons-codec
+Base64 Libraries,/open-source/base64-libraries,Base64,/artifact/net.iharder/base64
+Base64 Libraries,/open-source/base64-libraries,MiG Base64,/artifact/com.brsanthu/migbase64
+BPM Engines,/open-source/bpm-engines,Activiti :: Engine,/artifact/org.activiti/activiti-engine
+BPM Engines,/open-source/bpm-engines,Camunda BPM Engine,/artifact/org.camunda.bpm/camunda-engine
+BPM Engines,/open-source/bpm-engines,JBPM :: BPMN2,/artifact/org.jbpm/jbpm-bpmn2
+Build Models,/open-source/build-models,Maven Artifact,/artifact/org.apache.maven/maven-artifact
+Build Models,/open-source/build-models,Maven Plugin API,/artifact/org.apache.maven/maven-plugin-api
+Build Models,/open-source/build-models,Maven Project,/artifact/org.apache.maven/maven-project
+Build Tools,/open-source/build-tools,Ant,/artifact/ant/ant
+Build Tools,/open-source/build-tools,Apache Ant Core,/artifact/org.apache.ant/ant
+Build Tools,/open-source/build-tools,Maven Core,/artifact/org.apache.maven/maven-core
+Bytecode Libraries,/open-source/bytecode-libraries,CGLib Nodep,/artifact/cglib/cglib-nodep
+Bytecode Libraries,/open-source/bytecode-libraries,CGLib,/artifact/cglib/cglib
+Bytecode Libraries,/open-source/bytecode-libraries,Javassist,/artifact/org.javassist/javassist
+Cache Clients,/open-source/cache-clients,JSR107 API and SPI,/artifact/javax.cache/cache-api
+Cache Clients,/open-source/cache-clients,Spymemcached,/artifact/net.spy/spymemcached
+Cache Clients,/open-source/cache-clients,Xmemcached,/artifact/com.googlecode.xmemcached/xmemcached
+Cache Implementations,/open-source/cache-implementations,Caffeine Cache,/artifact/com.github.ben-manes.caffeine/caffeine
+Cache Implementations,/open-source/cache-implementations,Ehcache Core,/artifact/net.sf.ehcache/ehcache-core
+Cache Implementations,/open-source/cache-implementations,Ehcache,/artifact/net.sf.ehcache/ehcache
+Cassandra Clients,/open-source/cassandra-clients,Astyanax Cassandra,/artifact/com.netflix.astyanax/astyanax-cassandra
+Cassandra Clients,/open-source/cassandra-clients,DataStax Java Driver For Apache Cassandra(R) Core,/artifact/com.datastax.cassandra/cassandra-driver-core
+Cassandra Clients,/open-source/cassandra-clients,Hector Core,/artifact/org.hectorclient/hector-core
+Classpath Tools,/open-source/classpath-tools,ClassGraph,/artifact/io.github.classgraph/classgraph
+Classpath Tools,/open-source/classpath-tools,FastClasspathScanner,/artifact/io.github.lukehutch/fast-classpath-scanner
+Classpath Tools,/open-source/classpath-tools,Governator,/artifact/com.netflix.governator/governator
+Cloud Computing,/open-source/cloud-computing-integration,AppEngine API 1 0 SDK,/artifact/com.google.appengine/appengine-api-1.0-sdk
+Cloud Computing,/open-source/cloud-computing-integration,AWS SDK For Java Core,/artifact/com.amazonaws/aws-java-sdk-core
+Cloud Computing,/open-source/cloud-computing-integration,AWS SDK For Java,/artifact/com.amazonaws/aws-java-sdk
+Cluster Managment,/open-source/cluster-managment,Apache Hadoop YARN API,/artifact/org.apache.hadoop/hadoop-yarn-api
+Cluster Managment,/open-source/cluster-managment,Apache Hadoop YARN Common,/artifact/org.apache.hadoop/hadoop-yarn-common
+Cluster Managment,/open-source/cluster-managment,Mesos,/artifact/org.apache.mesos/mesos
+Code Analyzers,/open-source/code-analyzers,Acyclic,/artifact/com.lihaoyi/acyclic
+Code Analyzers,/open-source/code-analyzers,FindBugs JSR305,/artifact/com.google.code.findbugs/jsr305
+Code Analyzers,/open-source/code-analyzers,FindBugs Project,/artifact/com.google.code.findbugs/findbugs
+Code Coverage Tools,/open-source/code-coverage,JaCoCo :: Agent,/artifact/org.jacoco/org.jacoco.agent
+Code Coverage Tools,/open-source/code-coverage,Scalac SCoverage Plugin,/artifact/org.scoverage/scalac-scoverage-plugin
+Code Coverage Tools,/open-source/code-coverage,Scalac SCoverage Runtime,/artifact/org.scoverage/scalac-scoverage-runtime
+Collections,/open-source/collections,Apache Commons Collections,/artifact/commons-collections/commons-collections
+Collections,/open-source/collections,Apache Commons Collections,/artifact/org.apache.commons/commons-collections4
+Collections,/open-source/collections,Fastutil,/artifact/it.unimi.dsi/fastutil
+Command Line Parsers,/open-source/command-line-parsers,Apache Commons CLI,/artifact/commons-cli/commons-cli
+Command Line Parsers,/open-source/command-line-parsers,Args4j,/artifact/args4j/args4j
+Command Line Parsers,/open-source/command-line-parsers,JCommander,/artifact/com.beust/jcommander
+Compression Libraries,/open-source/compression-libraries,Apache Commons Compress,/artifact/org.apache.commons/commons-compress
+Compression Libraries,/open-source/compression-libraries,Snappy Java,/artifact/org.xerial.snappy/snappy-java
+Compression Libraries,/open-source/compression-libraries,XZ For Java,/artifact/org.tukaani/xz
+Concurrency Libraries,/open-source/concurrency-libraries,"Java Concurrency In Practice" Book Annotations,/artifact/net.jcip/jcip-annotations
+Concurrency Libraries,/open-source/concurrency-libraries,Concurrent,/artifact/concurrent/concurrent
+Concurrency Libraries,/open-source/concurrency-libraries,Disruptor Framework,/artifact/com.lmax/disruptor
+Configuration Libraries,/open-source/config-libraries,Apache Commons Configuration,/artifact/commons-configuration/commons-configuration
+Configuration Libraries,/open-source/config-libraries,Commons Digester,/artifact/commons-digester/commons-digester
+Configuration Libraries,/open-source/config-libraries,Config,/artifact/com.typesafe/config
+Console Utilities,/open-source/console-utilities,Jansi,/artifact/org.fusesource.jansi/jansi
+Console Utilities,/open-source/console-utilities,JLine,/artifact/jline/jline
+Console Utilities,/open-source/console-utilities,JLine,/artifact/org.scala-lang/jline
+Core Utilities,/open-source/core-utilities,Apache Commons Lang,/artifact/org.apache.commons/commons-lang3
+Core Utilities,/open-source/core-utilities,Commons Lang,/artifact/commons-lang/commons-lang
+Core Utilities,/open-source/core-utilities,Guava: Google Core Libraries For Java,/artifact/com.google.guava/guava
+CSS, LESS, SASS,/open-source/css,CSS Parser,/artifact/net.sourceforge.cssparser/cssparser
+CSS, LESS, SASS,/open-source/css,Official LESS CSS Compiler For Java,/artifact/org.lesscss/lesscss
+CSS, LESS, SASS,/open-source/css,Simple API For CSS,/artifact/org.w3c.css/sac
+CSV Libraries,/open-source/csv-libraries,Apache Commons CSV,/artifact/org.apache.commons/commons-csv
+CSV Libraries,/open-source/csv-libraries,OpenCSV,/artifact/com.opencsv/opencsv
+CSV Libraries,/open-source/csv-libraries,OpenCSV,/artifact/net.sf.opencsv/opencsv
+Date and Time Utilities,/open-source/date-time-utilities,Clj Time,/artifact/clj-time/clj-time
+Date and Time Utilities,/open-source/date-time-utilities,Joda Time,/artifact/joda-time/joda-time
+Date and Time Utilities,/open-source/date-time-utilities,Nscala Time,/artifact/com.github.nscala-time/nscala-time
+DB Migration Tools,/open-source/db-migration,Flyway Core,/artifact/org.flywaydb/flyway-core
+DB Migration Tools,/open-source/db-migration,Liquibase Core,/artifact/org.liquibase/liquibase-core
+DB Migration Tools,/open-source/db-migration,Ragtime,/artifact/ragtime/ragtime
+Defect Detection Metadata,/open-source/defect-detection-metadata,Error Prone Annotations,/artifact/com.google.errorprone/error_prone_annotations
+Defect Detection Metadata,/open-source/defect-detection-metadata,FindBugs Annotations,/artifact/com.google.code.findbugs/annotations
+Defect Detection Metadata,/open-source/defect-detection-metadata,IntelliJ IDEA Annotations,/artifact/com.intellij/annotations
+Dependency Injection,/open-source/dependency-injection,Javax Inject,/artifact/javax.inject/javax.inject
+Dependency Injection,/open-source/dependency-injection,Spring Beans,/artifact/org.springframework/spring-beans
+Dependency Injection,/open-source/dependency-injection,Spring Context,/artifact/org.springframework/spring-context
+Diff and Patch Libraries,/open-source/diff-patch,Java Diff Utilities,/artifact/com.googlecode.java-diff-utils/diffutils
+Diff and Patch Libraries,/open-source/diff-patch,Java Diff,/artifact/org.incava/java-diff
+Diff and Patch Libraries,/open-source/diff-patch,Java Object Diff,/artifact/de.danielbechler/java-object-diff
+Distributed Communication,/open-source/distributed-communication,Akka Remote,/artifact/com.typesafe.akka/akka-remote
+Distributed Communication,/open-source/distributed-communication,Hessian,/artifact/com.caucho/hessian
+Distributed Communication,/open-source/distributed-communication,JGroups,/artifact/org.jgroups/jgroups
+Distributed Computing,/open-source/distributed-computing,Hadoop Core,/artifact/org.apache.hadoop/hadoop-core
+Distributed Computing,/open-source/distributed-computing,Scalding Core,/artifact/com.twitter/scalding-core
+Distributed Computing,/open-source/distributed-computing,Spark Project Core,/artifact/org.apache.spark/spark-core
+Distributed Coordination,/open-source/distributed-coordination,Apache ZooKeeper Server,/artifact/org.apache.zookeeper/zookeeper
+Distributed Coordination,/open-source/distributed-coordination,Curator Framework,/artifact/org.apache.curator/curator-framework
+Distributed Coordination,/open-source/distributed-coordination,Curator Recipes,/artifact/org.apache.curator/curator-recipes
+Distributed File Systems,/open-source/distributed-file-systems,Apache Hadoop HDFS,/artifact/org.apache.hadoop/hadoop-hdfs
+Distributed File Systems,/open-source/distributed-file-systems,Kosmosfs,/artifact/net.sf.kosmosfs/kfs
+Distributed File Systems,/open-source/distributed-file-systems,Tachyon Project Core,/artifact/org.tachyonproject/tachyon
+Distributed Tracing,/open-source/distributed-tracing,Brave,/artifact/io.zipkin.brave/brave
+Distributed Tracing,/open-source/distributed-tracing,OpenTracing API,/artifact/io.opentracing/opentracing-api
+Distributed Tracing,/open-source/distributed-tracing,Zipkin Core Library (Deprecated),/artifact/io.zipkin.java/zipkin
+DNS Libraries,/open-source/dns-libraries,ApacheDS Protocol Dns,/artifact/org.apache.directory.server/apacheds-protocol-dns
+DNS Libraries,/open-source/dns-libraries,DNSJava,/artifact/dnsjava/dnsjava
+DNS Libraries,/open-source/dns-libraries,JmDNS,/artifact/javax.jmdns/jmdns
+Docker Clients,/open-source/docker-clients,Docker Client,/artifact/com.spotify/docker-client
+Docker Clients,/open-source/docker-clients,Docker Java,/artifact/com.github.docker-java/docker-java
+Docker Clients,/open-source/docker-clients,Gradle Docker Plugin,/artifact/com.bmuschko/gradle-docker-plugin
+DynamoDB Clients,/open-source/dynamodb-clients,AWS Java SDK :: Services :: Amazon DynamoDB,/artifact/software.amazon.awssdk/dynamodb
+DynamoDB Clients,/open-source/dynamodb-clients,AWS Java SDK For Amazon DynamoDB,/artifact/com.amazonaws/aws-java-sdk-dynamodb
+DynamoDB Clients,/open-source/dynamodb-clients,Faraday,/artifact/com.taoensso/faraday
+Eclipse Plugins,/open-source/eclipse-plugins,Eclipse Paho Client Mqttv3,/artifact/org.eclipse.paho/org.eclipse.paho.client.mqttv3
+Eclipse Plugins,/open-source/eclipse-plugins,Eclipse Sisu Inject,/artifact/org.eclipse.sisu/org.eclipse.sisu.inject
+Eclipse Plugins,/open-source/eclipse-plugins,Eclipse Sisu Plexus,/artifact/org.eclipse.sisu/org.eclipse.sisu.plexus
+Eclipse Runtime,/open-source/eclipse-runtime,Core Resource Management,/artifact/org.eclipse.core/resources
+Eclipse Runtime,/open-source/eclipse-runtime,Core Runtime,/artifact/org.eclipse.core/org.eclipse.core.runtime
+Eclipse Runtime,/open-source/eclipse-runtime,Core Runtime,/artifact/org.eclipse.core/runtime
+ElasticSearch Clients,/open-source/elasticsearch-clients,Elastisch,/artifact/clojurewerkz/elastisch
+ElasticSearch Clients,/open-source/elasticsearch-clients,Jest Apache HC Jar,/artifact/io.searchbox/jest
+ElasticSearch Clients,/open-source/elasticsearch-clients,Server,/artifact/org.elasticsearch/elasticsearch
+Embedded SQL Databases,/open-source/embedded-sql-databases,Apache Derby Database Engine and Embedded JDBC Driver,/artifact/org.apache.derby/derby
+Embedded SQL Databases,/open-source/embedded-sql-databases,H2 Database Engine,/artifact/com.h2database/h2
+Embedded SQL Databases,/open-source/embedded-sql-databases,HyperSQL Database,/artifact/org.hsqldb/hsqldb
+Encryption Libraries,/open-source/encryption-libraries,Bouncy Castle Provider,/artifact/org.bouncycastle/bcprov-jdk15on
+Encryption Libraries,/open-source/encryption-libraries,Bouncy Castle Provider,/artifact/org.bouncycastle/bcprov-jdk16
+Encryption Libraries,/open-source/encryption-libraries,Nimbus JOSE+JWT,/artifact/com.nimbusds/nimbus-jose-jwt
+Enterprise Integration,/open-source/enterprise-integration,Camel :: Core,/artifact/org.apache.camel/camel-core
+Enterprise Integration,/open-source/enterprise-integration,Mule Core,/artifact/org.mule/mule-core
+Enterprise Integration,/open-source/enterprise-integration,Spring Integration Core,/artifact/org.springframework.integration/spring-integration-core
+Enterprise Service Bus,/open-source/enterprise-service-bus,Apache Synapse Core,/artifact/org.apache.synapse/synapse-core
+Enterprise Service Bus,/open-source/enterprise-service-bus,Celtix Public API,/artifact/org.objectweb.celtix/celtix-api
+Excel Libraries,/open-source/excel-libraries,Apache POI,/artifact/org.apache.poi/poi
+Excel Libraries,/open-source/excel-libraries,JXL,/artifact/net.sourceforge.jexcelapi/jxl
+Excel Libraries,/open-source/excel-libraries,Jxls Core,/artifact/net.sf.jxls/jxls-core
+Exception Handling,/open-source/exception-handling,Catch Exception,/artifact/com.googlecode.catch-exception/catch-exception
+Exception Handling,/open-source/exception-handling,Catch Exception,/artifact/eu.codearte.catch-exception/catch-exception
+Exception Handling,/open-source/exception-handling,Spring Retry,/artifact/org.springframework.retry/spring-retry
+Expression Languages,/open-source/expression-languages,Expression Language 3.0 API,/artifact/javax.el/javax.el-api
+Expression Languages,/open-source/expression-languages,Expression Language API (2.1 Maintenance Release),/artifact/javax.el/el-api
+Expression Languages,/open-source/expression-languages,Spring Expression Language (SpEL),/artifact/org.springframework/spring-expression
+External Process Execution,/open-source/external-process-execution,Apache Commons Exec,/artifact/org.apache.commons/commons-exec
+External Process Execution,/open-source/external-process-execution,Command,/artifact/io.airlift/command
+External Process Execution,/open-source/external-process-execution,ZT Process Executor,/artifact/org.zeroturnaround/zt-exec
+FTP Clients and Servers,/open-source/ftp,Apache Commons Net,/artifact/commons-net/commons-net
+FTP Clients and Servers,/open-source/ftp,Apache FtpServer Core,/artifact/org.apache.ftpserver/ftpserver-core
+FTP Clients and Servers,/open-source/ftp,Camel :: FTP,/artifact/org.apache.camel/camel-ftp
+Full-Text Indexing Libraries,/open-source/text-indexing,Lucene Core,/artifact/org.apache.lucene/lucene-core
+Full-Text Indexing Libraries,/open-source/text-indexing,MG4J (big),/artifact/it.unimi.di/mg4j-big
+Functional Programming,/open-source/functional,CatsJVM,/artifact/org.typelevel/cats
+Functional Programming,/open-source/functional,Scalaz Core,/artifact/org.scalaz/scalaz-core
+Functional Programming,/open-source/functional,Vavr,/artifact/io.vavr/vavr
+Geospatial Libraries,/open-source/geospatial-libraries,Library Geotools,/artifact/nl.cloudfarming.client/lib-geotools
+Geospatial Libraries,/open-source/geospatial-libraries,Spatial4J,/artifact/com.spatial4j/spatial4j
+Geospatial Libraries,/open-source/geospatial-libraries,Spatial4J,/artifact/org.locationtech.spatial4j/spatial4j
+Git Tools,/open-source/git-tools,Grgit,/artifact/org.ajoberstar/grgit
+Git Tools,/open-source/git-tools,JGit Core,/artifact/org.eclipse.jgit/org.eclipse.jgit
+Git Tools,/open-source/git-tools,Maven SCM Git Provider Git Executable Impl.,/artifact/org.apache.maven.scm/maven-scm-provider-gitexe
+Graph Databases,/open-source/graph-databases,Neo4j Community,/artifact/org.neo4j/neo4j
+Graph Databases,/open-source/graph-databases,Neo4j Graph Database Kernel,/artifact/org.neo4j/neo4j-kernel
+Graph Databases,/open-source/graph-databases,Spark Project GraphX,/artifact/org.apache.spark/spark-graphx
+Hadoop Databases,/open-source/hadoop-databases,Apache Accumulo Core,/artifact/org.apache.accumulo/accumulo-core
+Hadoop Databases,/open-source/hadoop-databases,Apache Cassandra,/artifact/org.apache.cassandra/cassandra-all
+Hadoop Databases,/open-source/hadoop-databases,Apache HBase,/artifact/org.apache.hbase/hbase
+Hadoop Query Engines,/open-source/hadoop-query-engines,Hive Query Language,/artifact/org.apache.hive/hive-exec
+Hadoop Query Engines,/open-source/hadoop-query-engines,Pig,/artifact/org.apache.pig/pig
+Hadoop Query Engines,/open-source/hadoop-query-engines,Spark Project SQL,/artifact/org.apache.spark/spark-sql
+Hashing Libraries,/open-source/hashing-libraries,JBCrypt,/artifact/org.mindrot/jbcrypt
+Hashing Libraries,/open-source/hashing-libraries,LZ4 and XxHash,/artifact/net.jpountz.lz4/lz4
+Hashing Libraries,/open-source/hashing-libraries,Utilities Hashing,/artifact/com.twitter/util-hashing
+HBase Clients,/open-source/hbase-clients,Apache HBase Client,/artifact/org.apache.hbase/hbase-client
+HBase Clients,/open-source/hbase-clients,Async HBase Client,/artifact/org.mousio/async-hbase-client
+HBase Clients,/open-source/hbase-clients,Asynchronous HBase Client,/artifact/org.hbase/asynchbase
+HTML Parsers,/open-source/html-parsers,JSoup Java HTML Parser,/artifact/org.jsoup/jsoup
+HTML Parsers,/open-source/html-parsers,Neko HTML,/artifact/net.sourceforge.nekohtml/nekohtml
+HTML Parsers,/open-source/html-parsers,TagSoup,/artifact/org.ccil.cowan.tagsoup/tagsoup
+HTTP Clients,/open-source/http-clients,Apache HttpClient,/artifact/org.apache.httpcomponents/httpclient
+HTTP Clients,/open-source/http-clients,Apache HttpCore,/artifact/org.apache.httpcomponents/httpcore
+HTTP Clients,/open-source/http-clients,OkHttp,/artifact/com.squareup.okhttp3/okhttp
+I/O Utilities,/open-source/io-utilities,Apache Commons IO,/artifact/commons-io/commons-io
+I/O Utilities,/open-source/io-utilities,Commons IO,/artifact/org.apache.commons/commons-io
+I/O Utilities,/open-source/io-utilities,Okio,/artifact/com.squareup.okio/okio
+I18N Libraries,/open-source/i18n-libraries,Commons I18n,/artifact/commons-i18n/commons-i18n
+I18N Libraries,/open-source/i18n-libraries,ICU4J,/artifact/com.ibm.icu/icu4j
+I18N Libraries,/open-source/i18n-libraries,Scalingua,/artifact/ru.makkarpov/scalingua
+Java Compilers/Parsers,/open-source/java-compilers-and-parsers,Eclipse ECJ,/artifact/org.eclipse.jdt.core.compiler/ecj
+Java Compilers/Parsers,/open-source/java-compilers-and-parsers,JavaParser Core,/artifact/com.github.javaparser/javaparser-core
+Java Compilers/Parsers,/open-source/java-compilers-and-parsers,QDox,/artifact/com.thoughtworks.qdox/qdox
+Java Specifications,/open-source/java-specs,Java Servlet API,/artifact/javax.servlet/javax.servlet-api
+Java Specifications,/open-source/java-specs,JavaServlet(TM) Specification,/artifact/javax.servlet/servlet-api
+Java Specifications,/open-source/java-specs,Javax Inject,/artifact/javax.inject/javax.inject
+JavaScript Processors,/open-source/javascript-processors,Closure Compiler,/artifact/com.google.javascript/closure-compiler
+JavaScript Processors,/open-source/javascript-processors,Jawr Core,/artifact/net.jawr/jawr-core
+JavaScript Processors,/open-source/javascript-processors,YUI Compressor,/artifact/com.yahoo.platform.yui/yuicompressor
+JDBC Extensions,/open-source/jdbc-extensions,JCabi JDBC,/artifact/com.jcabi/jcabi-jdbc
+JDBC Extensions,/open-source/jdbc-extensions,P6Spy,/artifact/p6spy/p6spy
+JDBC Extensions,/open-source/jdbc-extensions,Spring JDBC,/artifact/org.springframework/spring-jdbc
+JDBC Pools,/open-source/jdbc-pools,Apache Commons DBCP,/artifact/org.apache.commons/commons-dbcp2
+JDBC Pools,/open-source/jdbc-pools,Commons DBCP,/artifact/commons-dbcp/commons-dbcp
+JDBC Pools,/open-source/jdbc-pools,HikariCP,/artifact/com.zaxxer/HikariCP
+JMX Libraries,/open-source/jmx-libraries,JBoss JMX,/artifact/jboss/jboss-jmx
+JMX Libraries,/open-source/jmx-libraries,Jmxutils,/artifact/org.weakref/jmxutils
+JMX Libraries,/open-source/jmx-libraries,MX4J,/artifact/mx4j/mx4j
+Job Scheduling,/open-source/job-scheduling,Cron4j,/artifact/it.sauronsoftware.cron4j/cron4j
+Job Scheduling,/open-source/job-scheduling,Quartz,/artifact/org.quartz-scheduler/quartz
+Job Scheduling,/open-source/job-scheduling,Sakai Job Scheduler API (scheduler Api),/artifact/org.sakaiproject.scheduler/scheduler-api
+JPA Implementations,/open-source/jpa-implementations,EclipseLink (non OSGi),/artifact/org.eclipse.persistence/eclipselink
+JPA Implementations,/open-source/jpa-implementations,Hibernate ORM Hibernate EntityManager,/artifact/org.hibernate/hibernate-entitymanager
+JPA Implementations,/open-source/jpa-implementations,Javax Persistence,/artifact/org.eclipse.persistence/javax.persistence
+JSON Libraries,/open-source/json-libraries,Gson,/artifact/com.google.code.gson/gson
+JSON Libraries,/open-source/json-libraries,Jackson Core,/artifact/com.fasterxml.jackson.core/jackson-core
+JSON Libraries,/open-source/json-libraries,Jackson Databind,/artifact/com.fasterxml.jackson.core/jackson-databind
+JSP Tag Libraries,/open-source/jsp-taglibs,JavaServer Pages (TM) TagLib Implementation,/artifact/org.glassfish.web/jstl-impl
+JSP Tag Libraries,/open-source/jsp-taglibs,Liferay Util Taglib,/artifact/com.liferay.portal/com.liferay.util.taglib
+JSP Tag Libraries,/open-source/jsp-taglibs,Standard,/artifact/taglibs/standard
+JVM Languages,/open-source/jvm-languages,Clojure,/artifact/org.clojure/clojure
+JVM Languages,/open-source/jvm-languages,Kotlin Standard Library,/artifact/org.jetbrains.kotlin/kotlin-stdlib
+JVM Languages,/open-source/jvm-languages,Scala Library,/artifact/org.scala-lang/scala-library
+JWT Libraries,/open-source/json-web-tokens-libraries,Java JWT,/artifact/com.auth0/java-jwt
+JWT Libraries,/open-source/json-web-tokens-libraries,JOSE4j,/artifact/org.bitbucket.b_c/jose4j
+JWT Libraries,/open-source/json-web-tokens-libraries,JSON Web Token Support For The JVM,/artifact/io.jsonwebtoken/jjwt
+Language Runtime,/open-source/language-runtime,Kotlin Standard Library JDK 8,/artifact/org.jetbrains.kotlin/kotlin-stdlib-jdk8
+Language Runtime,/open-source/language-runtime,Kotlin Standard Library JRE 7,/artifact/org.jetbrains.kotlin/kotlin-stdlib-jre7
+Language Runtime,/open-source/language-runtime,Kotlin Standard Library JRE 8,/artifact/org.jetbrains.kotlin/kotlin-stdlib-jre8
+LevelDB Integration,/open-source/leveldb-integration,Infinispan LevelDB CacheStore,/artifact/org.infinispan/infinispan-cachestore-leveldb
+LevelDB Integration,/open-source/leveldb-integration,LevelDB,/artifact/org.iq80.leveldb/leveldb
+LevelDB Integration,/open-source/leveldb-integration,Leveldbjni All,/artifact/org.fusesource.leveldbjni/leveldbjni-all
+Logging Bridges,/open-source/logging-bridges,Apache Log4j SLF4J Binding,/artifact/org.apache.logging.log4j/log4j-slf4j-impl
+Logging Bridges,/open-source/logging-bridges,JCL 1.2 Implemented Over SLF4J,/artifact/org.slf4j/jcl-over-slf4j
+Logging Bridges,/open-source/logging-bridges,SLF4J LOG4J 12 Binding,/artifact/org.slf4j/slf4j-log4j12
+Logging Frameworks,/open-source/logging-frameworks,Apache Log4j,/artifact/log4j/log4j
+Logging Frameworks,/open-source/logging-frameworks,Logback Classic Module,/artifact/ch.qos.logback/logback-classic
+Logging Frameworks,/open-source/logging-frameworks,SLF4J API Module,/artifact/org.slf4j/slf4j-api
+Machine Learning,/open-source/machine-learning,Spark Project ML Library,/artifact/org.apache.spark/spark-mllib
+Machine Learning,/open-source/machine-learning,Weka Dev,/artifact/nz.ac.waikato.cms.weka/weka-dev
+Machine Learning,/open-source/machine-learning,Weka Stable,/artifact/nz.ac.waikato.cms.weka/weka-stable
+Mail Clients,/open-source/mail-clients,Apache Commons Email,/artifact/org.apache.commons/commons-email
+Mail Clients,/open-source/mail-clients,JavaMail API (compat),/artifact/javax.mail/mail
+Mail Clients,/open-source/mail-clients,JavaMail API,/artifact/com.sun.mail/javax.mail
+Markdown Processors,/open-source/markdown-processors,CommonMark Java Core,/artifact/com.atlassian.commonmark/commonmark
+Markdown Processors,/open-source/markdown-processors,Flexmark Java Core,/artifact/com.vladsch.flexmark/flexmark
+Markdown Processors,/open-source/markdown-processors,Pegdown,/artifact/org.pegdown/pegdown
+Math Libraries,/open-source/math-libraries,Apache Commons Math,/artifact/org.apache.commons/commons-math3
+Math Libraries,/open-source/math-libraries,Commons Math,/artifact/org.apache.commons/commons-math
+Math Libraries,/open-source/math-libraries,JTS Topology Suite,/artifact/com.vividsolutions/jts
+Maven Plugins,/open-source/maven-plugins,Apache Maven Dependency Plugin,/artifact/org.apache.maven.plugins/maven-dependency-plugin
+Maven Plugins,/open-source/maven-plugins,ONOS YANG Maven Plugin,/artifact/org.onosproject/onos-yang-maven-plugin
+Maven Plugins,/open-source/maven-plugins,SwitchYard: "switchyard" Plugin,/artifact/org.switchyard/switchyard-plugin
+Maven Repositories API,/open-source/maven-repository-apis,Aether :: API,/artifact/org.sonatype.aether/aether-api
+Maven Repositories API,/open-source/maven-repository-apis,Aether API,/artifact/org.eclipse.aether/aether-api
+Maven Repositories API,/open-source/maven-repository-apis,Coursier,/artifact/io.get-coursier/coursier
+Message Brokers,/open-source/message-brokers,ActiveMQ :: Broker,/artifact/org.apache.activemq/activemq-broker
+Message Brokers,/open-source/message-brokers,ActiveMQ :: Core,/artifact/org.apache.activemq/activemq-core
+Message Brokers,/open-source/message-brokers,Apache Kafka,/artifact/org.apache.kafka/kafka
+Message Queue Clients,/open-source/message-queue-clients,RabbitMQ Java Client,/artifact/com.rabbitmq/amqp-client
+Message Queue Clients,/open-source/message-queue-clients,Spring JMS,/artifact/org.springframework/spring-jms
+Message Queue Clients,/open-source/message-queue-clients,Spring Messaging,/artifact/org.springframework/spring-messaging
+Microbenchmarks,/open-source/microbenchmarks,JMH Core,/artifact/org.openjdk.jmh/jmh-core
+Microbenchmarks,/open-source/microbenchmarks,JUnitBenchmarks,/artifact/com.carrotsearch/junit-benchmarks
+Microbenchmarks,/open-source/microbenchmarks,Scalameter,/artifact/com.storm-enroute/scalameter
+MIME Types Libraries,/open-source/mime-types-libraries,Apache HttpClient Mime,/artifact/org.apache.httpcomponents/httpmime
+MIME Types Libraries,/open-source/mime-types-libraries,Apache James :: Mime4j :: Assembly,/artifact/org.apache.james/apache-mime4j
+MIME Types Libraries,/open-source/mime-types-libraries,Mime Detection Utility,/artifact/eu.medsea.mimeutil/mime-util
+Mocking,/open-source/mocking,EasyMock,/artifact/org.easymock/easymock
+Mocking,/open-source/mocking,Mockito Core,/artifact/org.mockito/mockito-core
+Mocking,/open-source/mocking,Mockito,/artifact/org.mockito/mockito-all
+MongoDB Clients,/open-source/mongodb-clients,MongoDB Java Driver,/artifact/org.mongodb/mongo-java-driver
+MongoDB Clients,/open-source/mongodb-clients,Spring Data MongoDB Core,/artifact/org.springframework.data/spring-data-mongodb
+MongoDB Clients,/open-source/mongodb-clients,The MongoDB Asynchronous Driver,/artifact/org.mongodb/mongodb-driver-async
+MySQL Drivers,/open-source/mysql-drivers,MariaDB Java Client,/artifact/org.mariadb.jdbc/mariadb-java-client
+MySQL Drivers,/open-source/mysql-drivers,MySQL Async,/artifact/com.github.mauricio/mysql-async
+MySQL Drivers,/open-source/mysql-drivers,MySQL Connector/J,/artifact/mysql/mysql-connector-java
+Native Access Tools,/open-source/native-access,GlueGen Runtime,/artifact/org.jogamp.gluegen/gluegen-rt-main
+Native Access Tools,/open-source/native-access,Java Native Access,/artifact/net.java.dev.jna/jna
+Native Access Tools,/open-source/native-access,JNR FFI,/artifact/com.github.jnr/jnr-ffi
+Natural Language Processing,/open-source/natural-language-processing,Apache OpenNLP Tools,/artifact/org.apache.opennlp/opennlp-tools
+Natural Language Processing,/open-source/natural-language-processing,MAchine Learning For LanguagE Toolkit (MALLET),/artifact/cc.mallet/mallet
+Natural Language Processing,/open-source/natural-language-processing,Stanford CoreNLP,/artifact/edu.stanford.nlp/stanford-corenlp
+NetBeans Modules,/open-source/netbeans-modules,OpenBlueSky Utilities,/artifact/it.tidalwave.netbeans/it-tidalwave-netbeans-util
+NetBeans Modules,/open-source/netbeans-modules,TheseFoolishThings Logger,/artifact/it.tidalwave.thesefoolishthings/it-tidalwave-util-logging
+NetBeans Modules,/open-source/netbeans-modules,Wrappers JSR 305,/artifact/com.kenai.nbpwr/javax-annotation
+Network App Frameworks,/open-source/network-application-frameworks,Apache MINA Core 3.0.0 M2,/artifact/org.apache.mina/mina-core
+Network App Frameworks,/open-source/network-application-frameworks,Netty/All In One,/artifact/io.netty/netty
+Network App Frameworks,/open-source/network-application-frameworks,Netty/All In One,/artifact/io.netty/netty-all
+OAuth Libraries,/open-source/oauth-libraries,Google OAuth Client Library For Java,/artifact/com.google.oauth-client/google-oauth-client
+OAuth Libraries,/open-source/oauth-libraries,OAuth 2.0 SDK with OpenID Connect Extensions,/artifact/com.nimbusds/oauth2-oidc-sdk
+OAuth Libraries,/open-source/oauth-libraries,OAuth2 For Spring Security,/artifact/org.springframework.security.oauth/spring-security-oauth2
+Object Pools,/open-source/object-pools,Apache Commons Pool,/artifact/org.apache.commons/commons-pool2
+Object Pools,/open-source/object-pools,Commons Pool,/artifact/commons-pool/commons-pool
+Object Pools,/open-source/object-pools,OW2 Util :: Pool :: IMPL,/artifact/org.ow2.util/util-pool-impl
+Object Serialization,/open-source/object-serialization,Apache Avro,/artifact/org.apache.avro/avro
+Object Serialization,/open-source/object-serialization,Apache Thrift,/artifact/org.apache.thrift/libthrift
+Object Serialization,/open-source/object-serialization,Protocol Buffers [Core],/artifact/com.google.protobuf/protobuf-java
+Object/Relational Mapping,/open-source/orm,Hibernate Core Relocation,/artifact/org.hibernate/hibernate-core
+Object/Relational Mapping,/open-source/orm,MyBatis,/artifact/org.mybatis/mybatis
+Object/Relational Mapping,/open-source/orm,Spring Object/Relational Mapping,/artifact/org.springframework/spring-orm
+Off-Heap Libraries,/open-source/off-heap-libraries,Fst,/artifact/de.ruedigermoeller/fst
+Off-Heap Libraries,/open-source/off-heap-libraries,OHC Core Java8 Optimization,/artifact/org.caffinitas.ohc/ohc-core-j8
+Off-Heap Libraries,/open-source/off-heap-libraries,Slice,/artifact/io.airlift/slice
+OSGI Containers,/open-source/osgi-containers,Apache Aries Blueprint Bundle,/artifact/org.apache.aries.blueprint/org.apache.aries.blueprint
+OSGI Containers,/open-source/osgi-containers,Apache Karaf :: Assemblies :: Default Distribution,/artifact/org.apache.karaf/apache-karaf
+OSGI Containers,/open-source/osgi-containers,OSGi R4 Core Bundle,/artifact/org.apache.felix/org.osgi.core
+OSGI Frameworks,/open-source/osgi-frameworks,Apache Felix Framework,/artifact/org.apache.felix/org.apache.felix.framework
+OSGI Frameworks,/open-source/osgi-frameworks,Common Eclipse Runtime,/artifact/org.eclipse.equinox/common
+OSGI Utilities,/open-source/osgi-utilities,Annotations For SCR,/artifact/org.apache.felix/org.apache.felix.scr.annotations
+OSGI Utilities,/open-source/osgi-utilities,OSGi Compendium,/artifact/org.osgi/org.osgi.compendium
+OSGI Utilities,/open-source/osgi-utilities,OSGi Core,/artifact/org.osgi/org.osgi.core
+Parser Generators,/open-source/parser-generators,ANTLR 4 Tool,/artifact/org.antlr/antlr4
+Parser Generators,/open-source/parser-generators,ANTLR,/artifact/antlr/antlr
+Parser Generators,/open-source/parser-generators,Scala Parser Combinators,/artifact/org.scala-lang.modules/scala-parser-combinators
+PDF Libraries,/open-source/pdf-libraries,Apache PDFBox,/artifact/org.apache.pdfbox/pdfbox
+PDF Libraries,/open-source/pdf-libraries,IText Core,/artifact/com.itextpdf/itextpdf
+PDF Libraries,/open-source/pdf-libraries,IText, A Free Java PDF Library,/artifact/com.lowagie/itext
+PostgreSQL Drivers,/open-source/postgresql-drivers,PGJDBC NG,/artifact/com.impossibl.pgjdbc-ng/pgjdbc-ng
+PostgreSQL Drivers,/open-source/postgresql-drivers,PostgreSQL JDBC Driver JDBC 4.2,/artifact/org.postgresql/postgresql
+PostgreSQL Drivers,/open-source/postgresql-drivers,PostgreSQL JDBC Driver,/artifact/postgresql/postgresql
+RDF Libraries,/open-source/rdf-libraries,Apache Jena Core,/artifact/org.apache.jena/jena-core
+RDF Libraries,/open-source/rdf-libraries,Clerezza RDF Core,/artifact/org.apache.clerezza/rdf.core
+RDF Libraries,/open-source/rdf-libraries,OpenRDF Sesame: Model,/artifact/org.openrdf.sesame/sesame-model
+Redis Clients,/open-source/redis-clients,Jedis,/artifact/redis.clients/jedis
+Redis Clients,/open-source/redis-clients,Redisson,/artifact/org.redisson/redisson
+Redis Clients,/open-source/redis-clients,Spring Data Redis,/artifact/org.springframework.data/spring-data-redis
+Reflection Libraries,/open-source/reflection-libraries,Apache Commons BeanUtils,/artifact/commons-beanutils/commons-beanutils
+Reflection Libraries,/open-source/reflection-libraries,Kotlin Reflection,/artifact/org.jetbrains.kotlin/kotlin-reflect
+Reflection Libraries,/open-source/reflection-libraries,Reflections,/artifact/org.reflections/reflections
+Regular Expression Libraries,/open-source/regular-expression-libraries,Generex,/artifact/com.github.mifmif/generex
+Regular Expression Libraries,/open-source/regular-expression-libraries,Jakarta RegExp,/artifact/jakarta-regexp/jakarta-regexp
+Regular Expression Libraries,/open-source/regular-expression-libraries,Oro,/artifact/oro/oro
+REST Framework,/open-source/rest-frameworks,Jersey Core Server,/artifact/org.glassfish.jersey.core/jersey-server
+REST Framework,/open-source/rest-frameworks,Jersey Core,/artifact/com.sun.jersey/jersey-core
+REST Framework,/open-source/rest-frameworks,RESTEasy JAX RS Implementation,/artifact/org.jboss.resteasy/resteasy-jaxrs
+Rule Engines,/open-source/rule-engines,Drools :: Core,/artifact/org.drools/drools-core
+Rule Engines,/open-source/rule-engines,DTRules :: DTRules,/artifact/com.dtrules/dtrules
+S3 Clients,/open-source/s3-clients,AWS Java SDK For Amazon S3,/artifact/com.amazonaws/aws-java-sdk-s3
+S3 Clients,/open-source/s3-clients,JClouds Amazon Simple Storage Service (S3) Provider,/artifact/org.apache.jclouds.provider/aws-s3
+S3 Clients,/open-source/s3-clients,JetS3t,/artifact/net.java.dev.jets3t/jets3t
+Scala Compilers,/open-source/scala-compilers,Scala Compiler,/artifact/org.scala-lang/scala-compiler
+Scala Compilers,/open-source/scala-compilers,Scala Compiler,/artifact/org.scala-lang/scala-reflect
+Scala Compilers,/open-source/scala-compilers,Zinc,/artifact/com.typesafe.zinc/zinc
+Search Engines,/open-source/search-engines,Apache Solr Solrj,/artifact/org.apache.solr/solr-solrj
+Search Engines,/open-source/search-engines,Bobo Browse,/artifact/com.browseengine.bobo/bobo-browse
+Search Engines,/open-source/search-engines,Zoie Core,/artifact/com.linkedin.zoie/zoie-core
+Security Frameworks,/open-source/security-frameworks,Apache Shiro :: Core,/artifact/org.apache.shiro/shiro-core
+Security Frameworks,/open-source/security-frameworks,PicketBox Full JAR Distribution,/artifact/org.picketbox/picketbox
+Security Frameworks,/open-source/security-frameworks,Spring Security Core,/artifact/org.springframework.security/spring-security-core
+Social Network Clients,/open-source/social-network-clients,Foundational Module Containing The ServiceProvider Connect Framework and Service API Invocation Support.,/artifact/org.springframework.social/spring-social-core
+Social Network Clients,/open-source/social-network-clients,Twitter4J Core,/artifact/org.twitter4j/twitter4j-core
+Social Network Clients,/open-source/social-network-clients,Twitter4J Stream,/artifact/org.twitter4j/twitter4j-stream
+SSH Libraries,/open-source/ssh-libraries,Apache Mina SSHD :: Core,/artifact/org.apache.sshd/sshd-core
+SSH Libraries,/open-source/ssh-libraries,Ganymed SSH2 For Java,/artifact/ch.ethz.ganymed/ganymed-ssh2
+SSH Libraries,/open-source/ssh-libraries,JSch,/artifact/com.jcraft/jsch
+Stream Processing,/open-source/distributed-stream-processing,Akka Stream,/artifact/com.typesafe.akka/akka-stream
+Stream Processing,/open-source/distributed-stream-processing,Spark Project Streaming,/artifact/org.apache.spark/spark-streaming
+Stream Processing,/open-source/distributed-stream-processing,Storm Core,/artifact/org.apache.storm/storm-core
+String Utilities,/open-source/string-utilities,Apache Commons Text,/artifact/org.apache.commons/commons-text
+String Utilities,/open-source/string-utilities,Java String Similarity,/artifact/info.debatty/java-string-similarity
+String Utilities,/open-source/string-utilities,Joda Convert,/artifact/org.joda/joda-convert
+Swing Layouts,/open-source/swing-layouts,MiGLayout Swing,/artifact/com.miglayout/miglayout-swing
+Swing Layouts,/open-source/swing-layouts,MiGLayout,/artifact/com.miglayout/miglayout
+Swing Layouts,/open-source/swing-layouts,Swing Layout Extensions,/artifact/org.swinglabs/swing-layout
+Swing Libraries,/open-source/swing-libraries,Scala Swing Library,/artifact/org.scala-lang/scala-swing
+Swing Libraries,/open-source/swing-libraries,SwingX Core,/artifact/org.swinglabs.swingx/swingx-core
+Swing Libraries,/open-source/swing-libraries,SwingX,/artifact/org.swinglabs/swingx
+Template Engines,/open-source/template-engines,Apache FreeMarker,/artifact/org.freemarker/freemarker
+Template Engines,/open-source/template-engines,Apache Velocity,/artifact/org.apache.velocity/velocity
+Template Engines,/open-source/template-engines,Twirl API,/artifact/com.typesafe.play/twirl-api
+Testing Frameworks,/open-source/testing-frameworks,JUnit,/artifact/junit/junit
+Testing Frameworks,/open-source/testing-frameworks,ScalaTest,/artifact/org.scalatest/scalatest
+Testing Frameworks,/open-source/testing-frameworks,TestNG,/artifact/org.testng/testng
+Transaction APIs/Managers,/open-source/transactions,Java Transaction API,/artifact/javax.transaction/jta
+Transaction APIs/Managers,/open-source/transactions,JTA 1.1,/artifact/org.apache.geronimo.specs/geronimo-jta_1.1_spec
+Transaction APIs/Managers,/open-source/transactions,Spring Transaction,/artifact/org.springframework/spring-tx
+Units of Measurement,/open-source/units-of-measurement,Squants,/artifact/org.typelevel/squants
+Units of Measurement,/open-source/units-of-measurement,Units of Measurement API,/artifact/javax.measure/unit-api
+Units of Measurement,/open-source/units-of-measurement,Units,/artifact/io.airlift/units
+UUID Generators,/open-source/uuid-generators,Java UUID Generator,/artifact/com.fasterxml.uuid/java-uuid-generator
+UUID Generators,/open-source/uuid-generators,Java UUID Generator,/artifact/org.safehaus.jug/jug
+UUID Generators,/open-source/uuid-generators,UUID,/artifact/com.eaio.uuid/uuid
+Validation Frameworks,/open-source/validation,Apache Commons Validator,/artifact/commons-validator/commons-validator
+Validation Frameworks,/open-source/validation,Bean Validation API,/artifact/javax.validation/validation-api
+Validation Frameworks,/open-source/validation,Hibernate Validator Engine Relocation Artifact,/artifact/org.hibernate/hibernate-validator
+Vector/Matrix Libraries,/open-source/vector-and-matrix-libraries,Colt,/artifact/colt/colt
+Vector/Matrix Libraries,/open-source/vector-and-matrix-libraries,Efficient Java Matrix Library,/artifact/com.googlecode.efficient-java-matrix-library/ejml
+Vector/Matrix Libraries,/open-source/vector-and-matrix-libraries,Matrix Toolkits For Java,/artifact/com.googlecode.matrix-toolkits-java/mtj
+Virtual File Systems,/open-source/virtual-file-systems,Apache Commons VFS,/artifact/org.apache.commons/commons-vfs2
+Virtual File Systems,/open-source/virtual-file-systems,JBoss VFS,/artifact/org.jboss/jboss-vfs
+Virtual File Systems,/open-source/virtual-file-systems,TrueZIP,/artifact/de.schlichtherle/truezip
+Web Applications,/open-source/web-apps,Hudson :: Webapp,/artifact/org.jvnet.hudson.main/hudson-war
+Web Applications,/open-source/web-apps,JavaScript,/artifact/org.atmosphere.client/javascript
+Web Applications,/open-source/web-apps,Jenkins WAR,/artifact/org.jenkins-ci.main/jenkins-war
+Web Assets,/open-source/web-assets,Angular,/artifact/org.webjars.bower/angular
+Web Assets,/open-source/web-assets,JQuery,/artifact/org.webjars.bower/jquery
+Web Assets,/open-source/web-assets,Polymer,/artifact/org.webjars.bowergithub.polymer/polymer
+Web Browser Automation,/open-source/web-browser-automation,PhantomJSDriver,/artifact/com.codeborne/phantomjsdriver
+Web Browser Automation,/open-source/web-browser-automation,PhantomJSDriver,/artifact/com.github.detro.ghostdriver/phantomjsdriver
+Web Browser Automation,/open-source/web-browser-automation,PhantomJSDriver,/artifact/com.github.detro/phantomjsdriver
+Web Frameworks,/open-source/web-frameworks,GWT User,/artifact/com.google.gwt/gwt-user
+Web Frameworks,/open-source/web-frameworks,Spring Web MVC,/artifact/org.springframework/spring-webmvc
+Web Frameworks,/open-source/web-frameworks,Spring Web,/artifact/org.springframework/spring-web
+Web Servers,/open-source/web-servers,Jetty :: Server Core,/artifact/org.eclipse.jetty/jetty-server
+Web Servers,/open-source/web-servers,Jetty :: Server Core,/artifact/org.mortbay.jetty/jetty
+Web Servers,/open-source/web-servers,Tomcat Embed Core,/artifact/org.apache.tomcat.embed/tomcat-embed-core
+Web Testing,/open-source/web-testing,HtmlUnit,/artifact/net.sourceforge.htmlunit/htmlunit
+Web Testing,/open-source/web-testing,Selenium Java,/artifact/org.seleniumhq.selenium/selenium-java
+Web Testing,/open-source/web-testing,Selenium Server,/artifact/org.seleniumhq.selenium/selenium-server
+Web Upload Managers,/open-source/upload-manager,Apache Commons FileUpload,/artifact/commons-fileupload/commons-fileupload
+Web Upload Managers,/open-source/upload-manager,Nunaliit2 Upload,/artifact/ca.carleton.gcrc/nunaliit2-upload
+Web Upload Managers,/open-source/upload-manager,Tapestry Upload,/artifact/org.apache.tapestry/tapestry-upload
+WebServices Metadata,/open-source/webservices-metadata,EasyWSDL WSDL,/artifact/org.ow2.easywsdl/easywsdl-wsdl
+WebServices Metadata,/open-source/webservices-metadata,Web Services Metadata 2.0,/artifact/org.apache.geronimo.specs/geronimo-ws-metadata_2.0_spec
+WebServices Metadata,/open-source/webservices-metadata,WSDL4J,/artifact/wsdl4j/wsdl4j
+WebSocket Clients,/open-source/websocket-clients,Java WebSocket,/artifact/org.java-websocket/Java-WebSocket
+WebSocket Clients,/open-source/websocket-clients,Jetty :: Websocket :: Client,/artifact/org.eclipse.jetty.websocket/websocket-client
+WebSocket Clients,/open-source/websocket-clients,WebSocket Server API,/artifact/javax.websocket/javax.websocket-api
+XML Processing,/open-source/xml-processing,Dom4J,/artifact/dom4j/dom4j
+XML Processing,/open-source/xml-processing,JAXB API,/artifact/javax.xml.bind/jaxb-api
+XML Processing,/open-source/xml-processing,Xerces2 J,/artifact/xerces/xercesImpl
+XMPP Integration Libraries,/open-source/xmpp-integration,Smack,/artifact/jivesoftware/smack
+XMPP Integration Libraries,/open-source/xmpp-integration,Smack,/artifact/org.igniterealtime.smack/smack
+XMPP Integration Libraries,/open-source/xmpp-integration,Smack,/artifact/org.igniterealtime.smack/smack-tcp
+XPath Libraries,/open-source/xpath,Jaxen,/artifact/jaxen/jaxen
+XPath Libraries,/open-source/xpath,Saxon XPath,/artifact/net.sf.saxon/saxon-xpath
+XPath Libraries,/open-source/xpath,Xsoup,/artifact/us.codecraft/xsoup
+YAML Parsers,/open-source/yaml-parsers,Jackson Dataformat YAML,/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml
+YAML Parsers,/open-source/yaml-parsers,SnakeYAML,/artifact/org.yaml/snakeyaml
+YAML Parsers,/open-source/yaml-parsers,YamlBeans,/artifact/com.esotericsoftware.yamlbeans/yamlbeans
